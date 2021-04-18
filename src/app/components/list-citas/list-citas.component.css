@@ -1,0 +1,12 @@
+.card {
+    margin: 0 40px;
+}
+
+span {
+    font-weight: 600;
+}
+
+.btn-eliminar-cita {
+    width: 100%;
+    background-color: rgb(202, 64, 39);
+}

@@ -1,0 +1,13 @@
+label {
+    font-weight: 600;
+}
+
+.btn-add {
+    width: 100%;
+    background-color: #597f92;
+    border-color: transparent;
+}
+
+.card {
+    margin: 0 40px;
+}
